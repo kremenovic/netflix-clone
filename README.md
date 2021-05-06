@@ -6,8 +6,8 @@ This is a small front-end project built with HTML, CSS and little bit of JavaScr
 In this project I used vanila JS and SASS/SCSS for writing clean CSS.
 
 <h3>What has been learned?</h3>
-- How to use SASS/CSS
-- Use what's learned in JS courses
+- How to use SASS/CSS<br>
+- Use what's learned in JS courses<br>
 - How to use properly <span style="color: gree;">display: flex;</span>
 
 <h3>Live demo</h3>
