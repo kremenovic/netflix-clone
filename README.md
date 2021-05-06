@@ -1,2 +1,2 @@
 # netflix-clone
-Netflix Landing Page Clone Project
+<h1>Netflix Landing Page Clone Project</h1>
