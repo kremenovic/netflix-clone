@@ -53,6 +53,13 @@ section {
   }
 }
 
+// Class for label animation
+.active_label {
+  font-size: 13px;
+  margin-top: -62px!important;
+  font-weight: 600;
+}
+
 // Get Started
 .promo_row {
   max-width: 740px;

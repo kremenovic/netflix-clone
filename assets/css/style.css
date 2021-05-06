@@ -51,6 +51,12 @@ section {
   background-color: #000;
 }
 
+.active_label {
+  font-size: 13px;
+  margin-top: -62px !important;
+  font-weight: 600;
+}
+
 .promo_row {
   max-width: 740px;
   width: 100%;
