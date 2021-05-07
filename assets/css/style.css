@@ -685,6 +685,10 @@ footer .footer .footer_multi_row .multi_col {
   .promo_row .get_started button {
     padding: 10px 15px;
   }
+  .active_label {
+    font-size: 12px !important;
+    margin-top: -45px !important;
+  }
   header #navigation {
     padding: 0px 25px 0px 15px;
   }
