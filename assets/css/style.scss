@@ -166,7 +166,9 @@ header {
 
     .logo {
       display: flex;
-      flex: 1;
+      flex-grow: 1;
+      flex-shrink: 1;
+      flex-basis: 0%;
 
       img {
         max-width: 200px;
@@ -310,7 +312,9 @@ section.sales_point {
         .movie_title_download {
           display: flex;
           flex-direction: column;
-          flex: 1;
+          flex-grow: 1;
+          flex-shrink: 1;
+          flex-basis: 0%;
 
           .movie_title {
             font-size: 16px;
