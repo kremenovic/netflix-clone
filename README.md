@@ -11,4 +11,4 @@ In this project I used vanila JS and SASS/SCSS for writing clean CSS.
 - How to use properly <span style="color: gree;">display: flex;</span>
 
 <h3>Live demo</h3>
-<a href="https://serene-ritchie-a56627.netlify.app/" target="_blank">Click here to see live demo</a>
+<a href="https://kremenovic.github.io/netflix-clone/" target="_blank">Click here to see live demo</a>
